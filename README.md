@@ -1,1 +1,1 @@
-# Salary-Prediction
+In this project, we will focus on salary prediction. The data set includes information on job descriptions and salaries. Using this data set we can predict the salary of a job posting (i.e., the `Salary` column in the data set) based on the job description. This is important, because this model can make a salary recommendation as soon as a job description is entered into a system.
